@@ -1,13 +1,12 @@
 #include <stdio.h>
-#include <stdlib.h>
 
 int main(){
 	
 	
 	int m1[2][2]={{1,2},
-			      {3,4}};
+		      {3,4}};
 	int m2[2][2]={{5,6},
-				  {7,8}};
+		      {7,8}};
 	int mr[2][2];
 	
 	for(int i = 0; i < 2 ; i++)
